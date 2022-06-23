@@ -47,7 +47,7 @@ contract CoinFlipHack {
         contractToHack = CoinFlip (_contractToHack);
     }
 
-    // use this function 10 times (every time waiting of creating a new block
+    // use this function 10 times (every time waiting of creating of a new block
     // in chain a little bit)
     function hack() public {
         uint256 FACTOR = 57896044618658097711785492504343953926634992332820282019728792003956564819968;
