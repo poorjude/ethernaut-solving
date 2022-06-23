@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-// goal: make Force contract receive any money
+// goal: break logic of the game (King) and remain king forever
 
 // an original contract
 // deploy it sending some money first
