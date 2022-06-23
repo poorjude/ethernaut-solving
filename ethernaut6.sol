@@ -39,7 +39,7 @@ contract Delegation {
   }
 }
 
-// a contract that hacks the original one
+// a contract that hacks the original ones
 // deploy it third
 contract DelegationHack {
 
