@@ -28,7 +28,7 @@ contract Shop {
 // a contract that hacks the original one
 // deploy it second
 contract ShopHack {
-  // use this functiom
+  // use this function
   function hack(Shop _shop) external {
     _shop.buy();
   }
